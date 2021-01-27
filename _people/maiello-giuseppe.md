@@ -11,7 +11,7 @@ category:
 ordpms: 1
 description: místopředseda MS a zastupitel
 profession: vysokoškolský učitel na Vysoké škole finanční a správní v Praze
-img: people/maiello-giuseppe.jpg
+img: people/maiello-giuseppe.png
 mail:
   - maiello-giuseppe@pirati.cz
 profiles:
