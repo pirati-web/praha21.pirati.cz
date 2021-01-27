@@ -3,8 +3,8 @@ layout: post
 category: blog
 title: Zdravotní středisko na Rohožníku
 date: '2020-09-23'
-author: Michal Kočí
-image: articles/2020/2020-09-23-horsky-v-nove-sezone.png
+authorId: blanka.charvatova
+image: articles/2020/2020-07-23-parkovani-v-lese-u-klanovickeho-nadrazi.jpg
 tags:
   - zdravotní středisko
   - Rohožník
