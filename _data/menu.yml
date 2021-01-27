@@ -19,13 +19,6 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /komunalni-volby/
-    name: Program
-    match: komunalni-volby
-    submenu:   
-      - link: /komunalni-volby-2018/
-        name: Program
-        match: komunalni-volby-2018
   - link: /podporte-nas/
     name: Podpořte nás
     match: podporte-nas
