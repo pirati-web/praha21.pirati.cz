@@ -9,9 +9,9 @@ category:
   - kandidat-obec
  
 ordpms: 1
-description: předsedkyně MS a zastupitelka
-profession: personalista na správě železnic
-img: people/charvatova-blanka.jpg
+description: místopředseda MS a zastupitel
+profession: vysokoškolský učitel na Vysoké škole finanční a správní v Praze
+img: people/maiello-giuseppe.jpg
 mail:
   - maiello-giuseppe@pirati.cz
 profiles:
