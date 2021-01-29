@@ -32,13 +32,6 @@ bottom:
       - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
-    title: Volby 2018
-    links:
-      - link: /komunalni-volby-2018/povolebni-strategie/
-        name: Povolební strategie
-      - link: /komunalni-volby-2018/
-        name: Kandidátka     
-  - class: small-12 medium-4
     title: Otevřenost
     links:
       - link: https://ucet.pirati.cz
@@ -47,5 +40,3 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
-      - link: /lide/platy-2019/
-        name: Odměny za rok 2019
