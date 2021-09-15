@@ -1,36 +1,40 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
-    url:  "https://praha11.pirati.cz/piratske-listy"
-    icon: "fa fa-newspaper-o"
+    url:  "http://www.piratskelisty.cz"
+    icon: "ico--newspaper"
+
 
 main:
-  - link: /
-    name: Úvod
-    class: hide-for-medium
   - link: /aktuality/
     name: Aktuality
-    match: aktuality         
   - link: /lide/
-    name: Naši lidé
-    match: lide
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
+    name: Lidé
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021  
+  - link: /kontakt/
+    name: Kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: https://nalodeni.pirati.cz
-        name: Naloďte se na palubu !
       - link: /kontakt/
         name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /aktuality/
+        name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -40,3 +44,10 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - charvatova.blanka
